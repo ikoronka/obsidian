@@ -1,0 +1,3 @@
+/Users/amelieengelmaierova/Desktop/Škola/1. semestr/PA1/jizdniRadyCestujici/cmake-build-debug/CMakeFiles/jizdniRadyCestujici.dir
+/Users/amelieengelmaierova/Desktop/Škola/1. semestr/PA1/jizdniRadyCestujici/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/amelieengelmaierova/Desktop/Škola/1. semestr/PA1/jizdniRadyCestujici/cmake-build-debug/CMakeFiles/rebuild_cache.dir

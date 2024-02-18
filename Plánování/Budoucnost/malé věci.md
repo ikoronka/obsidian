@@ -1,0 +1,2 @@
+- [ ] zašít armani džíny
+- [ ] přesadit Flopa

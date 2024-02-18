@@ -1,0 +1,1 @@
+CMakeLists.txt not found in /Users/amelieengelmaierova/Desktop/Škola/1. semestr/PA1/vogonskaPoezie1 Select CMakeLists.txt

@@ -1,0 +1,4 @@
+- když tam je ```*list``` (jen jedna hvězdička) můžu měnit spoják, ale neměním hlavičku spojáku, tedy na který prvek ukazuje pointer 
+- když tam je ```**list``` měním jak spoják, tak pointer na první prvek
+- v tomto případě nám ```(*list)->next``` dá pointer na další prvek, a
+-  ```(&*list)->next``` nám dá adresu ("hodnotu") dalšího prvku v seznamu.

@@ -1,0 +1,4 @@
+- [ ] zobrazení  
+	- [ ] prostá (injekce)
+	- [ ] na (surjekce)
+	- [ ] vzájemně jednoznačná (bijekce)

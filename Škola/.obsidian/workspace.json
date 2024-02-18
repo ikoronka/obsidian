@@ -1,0 +1,187 @@
+{
+  "main": {
+    "id": "54896fcfc925e1f1",
+    "type": "split",
+    "children": [
+      {
+        "id": "2e97bf6e6042187f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "394c1c8e706d9d57",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "2. semestr/MA1/1. proseminář/1._proseminar.pdf"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a8b91db0bfe49296",
+    "type": "split",
+    "children": [
+      {
+        "id": "6e2bd5ba8630fb09",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aee4a2bf8b586bbd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9b8f9f7670c47c8b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bda4cd2e8f9b5284",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "c2a6c9da8ddb2bdb",
+    "type": "split",
+    "children": [
+      {
+        "id": "38077223a470ee10",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b2ba8787ad432d99",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2. semestr/MA1/1. proseminář/1._proseminar.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "36ac544b976edb6d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2. semestr/MA1/1. proseminář/1._proseminar.pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "957128f193d6b8be",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4bda39c1176341f2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2. semestr/MA1/1. proseminář/1._proseminar.pdf"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "aee4a2bf8b586bbd",
+  "lastOpenFiles": [
+    "2. semestr/MA1/MARAST kvízy/Elementární funkce a jejich vlastnosti/4. otázka - špatné varianty.md",
+    "2. semestr/MA1/MARAST kvízy/Elementární funkce a jejich vlastnosti/Untitled.md",
+    "2. semestr/MA1/MARAST kvízy/Elementární funkce a jejich vlastnosti/3. otázka.md",
+    "2. semestr/MA1/MARAST kvízy/3. otázka.md",
+    "2. semestr/MA1/MARAST kvízy/Untitled.md",
+    "2. semestr/MA1/MARAST kvízy/Elementární funkce a jejich vlastnosti/2. otázka.md",
+    "2. semestr/MA1/MARAST kvízy/Elementární funkce a jejich vlastnosti/1. otázka.md",
+    "2. semestr/MA1/MARAST kvízy/Elementární funkce a jejich vlastnosti",
+    "2. semestr/MA1/MARAST kvízy/Elem/Untitled.md",
+    "2. semestr/MA1/MARAST kvízy/Elem/1. otázka.md",
+    "2. semestr/MA1/MARAST kvízy/Elem",
+    "2. semestr/MA1/MARAST kvízy/Untitled",
+    "1. semestr/PA1/lenList.md",
+    "1. semestr/PA1/datové typy shrnutí.md",
+    "1. semestr/PA1/Znalostní testy/Jednotlivé otázky/1) fputs, fgets.md",
+    "1. semestr/PA1/Znalostní testy/Jednotlivé otázky/9) porovnávání hodnot.md",
+    "1. semestr/PA1/Znalostní testy/Jednotlivé otázky/6) složitost II..md",
+    "1. semestr/PA1/Znalostní testy/Jednotlivé otázky/8) ASCII a conversion.md",
+    "1. semestr/PA1/Znalostní testy/Jednotlivé otázky/7) složitost III..md",
+    "1. semestr/PA1/Znalostní testy/Jednotlivé otázky/5) počet opakování.md",
+    "1. semestr/PA1/Znalostní testy/Jednotlivé otázky/4) složitost I..md",
+    "1. semestr/PA1/Znalostní testy/Jednotlivé otázky/3) unsigned short.md",
+    "1. semestr/PA1/Znalostní testy/Jednotlivé otázky/2) ASCII a while.md",
+    "1. semestr/PA1/Znalostní testy/Jednotlivé otázky/14) sizeof().md",
+    "1. semestr/PA1/Znalostní testy/Jednotlivé otázky/13) složitost IV..md",
+    "1. semestr/PA1/Znalostní testy/Jednotlivé otázky/12) typy.md",
+    "1. semestr/PA1/Znalostní testy/Jednotlivé otázky/10) kódování.md",
+    "1. semestr/PA1/Znalostní testy/Jednotlivé otázky/11) define.md",
+    "1. semestr/PA1/Znalostní testy/Jednotlivé otázky/0) Index otázky.md",
+    "1. semestr/PA1/Znalostní testy/Jednotlivé otázky",
+    "1. semestr/PA1/Znalostní testy",
+    "1. semestr/PA1/spojové seznamy",
+    "1. semestr/PA1/Praktický test",
+    "2. semestr/MA1/1. proseminář/1._proseminar.pdf",
+    "2. semestr/MA1/MARAST kvízy",
+    "2. semestr/MA1/1. proseminář",
+    "1. semestr/přípravy na zkoušky/PA1/obrázky/Pasted image 20240211093651.png"
+  ]
+}

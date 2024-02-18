@@ -1,0 +1,3 @@
+/Users/amelieengelmaierova/Desktop/Škola/1. semestr/PA1/zkouskovy_test_slovnik/cmake-build-debug/CMakeFiles/zkouskovy_test_slovnik.dir
+/Users/amelieengelmaierova/Desktop/Škola/1. semestr/PA1/zkouskovy_test_slovnik/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/amelieengelmaierova/Desktop/Škola/1. semestr/PA1/zkouskovy_test_slovnik/cmake-build-debug/CMakeFiles/rebuild_cache.dir

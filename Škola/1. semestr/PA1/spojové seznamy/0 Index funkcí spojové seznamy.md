@@ -1,0 +1,12 @@
+[[atIndex]]
+[[createNode]]
+[[destroyList]]
+[[duplicateLists]]
+[[lenList]]
+[[maxValue]]
+[[Pointery z pohledu spojáky]]
+[[popNode]]
+[[pushNode]]
+[[reverseList]]
+[[swapLists]]
+

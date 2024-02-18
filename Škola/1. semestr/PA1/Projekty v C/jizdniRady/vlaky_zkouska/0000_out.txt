@@ -1,0 +1,8 @@
+Jizdni rad:
+A 7:30:00 8:20:00 OBB
+B 8:25:00 10:20:00 RegioJet
+A 7:30:00 8:20:00 OBB
+B 8:25:00 10:20:00 RegioJet
+A 7:30:00 8:20:00 OBB
+B 8:25:00 10:20:00 RegioJet
+Spojeni neexistuje.

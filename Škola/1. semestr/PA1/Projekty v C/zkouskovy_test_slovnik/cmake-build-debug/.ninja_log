@@ -1,0 +1,7 @@
+# ninja log v5
+42	83	1707742629145802250	zkouskovy_test_slovnik	8ce1f96bb26a3572
+0	49	1707742427236853730	CMakeFiles/zkouskovy_test_slovnik.dir/main.c.o	e18764c49c8c7e2d
+1	65	1707742630013147321	build.ninja	edf9503c6fd76b66
+0	42	1707742629104019993	CMakeFiles/zkouskovy_test_slovnik.dir/fit-wiki_reseni.c.o	3eac87872fe70b40
+1	55	1707743250880282663	CMakeFiles/zkouskovy_test_slovnik.dir/fit-wiki_reseni.c.o	3eac87872fe70b40
+56	103	1707743250927205376	zkouskovy_test_slovnik	8ce1f96bb26a3572

@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "zkouskovy_test_slovnik",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "zkouskovy_test_slovnik::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zkouskovy_test_slovnik-Debug-396dbfea596915aabef0.json",
+					"name" : "zkouskovy_test_slovnik",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/amelieengelmaierova/Desktop/\u0160kola/1. semestr/PA1/zkouskovy_test_slovnik/cmake-build-debug",
+		"source" : "/Users/amelieengelmaierova/Desktop/\u0160kola/1. semestr/PA1/zkouskovy_test_slovnik"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

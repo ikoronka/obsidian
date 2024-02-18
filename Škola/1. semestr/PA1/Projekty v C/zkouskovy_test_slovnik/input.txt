@@ -1,0 +1,10 @@
+progtest
+vagner is awesome
+stop
+programming
+hell
+	"jste hodnoceni"
+***** Progtest is 		HELL.
+Awesome     hell of programming
+		Stop programming for Vagner 							Break    
+	the progtest by 	"Jste na 32 pozice na hodnoceni"

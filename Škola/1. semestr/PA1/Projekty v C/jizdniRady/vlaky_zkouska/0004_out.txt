@@ -1,0 +1,4 @@
+Jizdni rad:
+A 11:20:00 12:00:00 CeskeDrahy
+B 15:00:00 16:20:00 CeskeDrahy
+Nespravny vstup.
