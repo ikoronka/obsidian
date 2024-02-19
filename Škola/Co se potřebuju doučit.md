@@ -1,4 +1,5 @@
-- [ ] zobrazení  
-	- [ ] prostá (injekce)
-	- [ ] na (surjekce)
-	- [ ] vzájemně jednoznačná (bijekce)
+- [x] zobrazení  
+	- [x] prostá (injekce)
+	- [x] na (surjekce)
+	- [x] vzájemně jednoznačná (bijekce)
+- [ ] Abelovská grupa
