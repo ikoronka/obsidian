@@ -1,5 +1,0 @@
-[[prostá funkce]]
-[[inverzní funkce]]
-[[arcsinus]]
-[[zobrazení]]
-[[zúžení funkce]]

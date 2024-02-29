@@ -1,0 +1,1 @@
+CMakeLists.txt not found in /Users/amelieengelmaierova/Documents/Obsidian/Škola/2. semestr/PA2/projekty/procvicovani/cviceni_01 Select CMakeLists.txt

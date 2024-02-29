@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "bordylek",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "bordylek::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-bordylek-Debug-523ec9adaf2dc95502db.json",
+					"name" : "bordylek",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/amelieengelmaierova/Documents/Obsidian/\u0160kola/2. semestr/PA2/projekty/procvicovani/bordylek/cmake-build-debug",
+		"source" : "/Users/amelieengelmaierova/Documents/Obsidian/\u0160kola/2. semestr/PA2/projekty/procvicovani/bordylek"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

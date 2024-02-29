@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "47cfb3ea6501d4c8",
+        "id": "c3f0d6459ebb6a54",
         "type": "tabs",
         "children": [
           {
-            "id": "fd6b3c1d60e48830",
+            "id": "4c7f00f2c858d9f9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Plánování/Daily notes/2024-02-18.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "92501c56d34e4984",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Škola/2. semestr/MA1/Přednášky/1. Přednáška - Reálná čísla.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#baze",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Škola/2. semestr/MA1/Přednášky/1. Přednáška - Reálná čísla.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Škola/2. semestr/MA1/Přednášky/1. Přednáška - Reálná čísla.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Škola/2. semestr/MA1/Přednášky/1. Přednáška - Reálná čísla.md"
-              }
+              "state": {}
             }
           },
           {
@@ -151,7 +130,7 @@
             }
           },
           {
-            "id": "2b373534e1019a49",
+            "id": "bbb0a0cdbec371dc",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -159,11 +138,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 382.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -177,53 +156,54 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "70b58ffdfeff017d",
+  "active": "4c7f00f2c858d9f9",
   "lastOpenFiles": [
-    "Škola/2. semestr/LA2/1. přednáška - Opakování, Obecný vektorový prostor.md",
-    "Škola/2. semestr/MA1/Prosemináře",
-    "Škola/Co se potřebuju doučit.md",
-    "Škola/2. semestr/MA1/Přednášky/1. Přednáška - Reálná čísla.md",
+    "Knawledge/tags.sh",
+    "Škola/2. semestr/Rozcestník 2. semestr.md",
+    "Škola/2. semestr/SAP/Index SAP.md",
+    "Škola/2. semestr/PA2/Index PA2.md",
+    "Škola/2. semestr/MA1/Index MA1.md",
+    "Škola/2. semestr/LA2/Index LA2.md",
+    "Škola/2. semestr/DBS/Index DBS.md",
+    "Škola/2. semestr/KSA/Index KSA.md",
+    "Škola/2. semestr/MA1/Pojmy/0 Slovníček pojmů.md",
+    "Škola/2. semestr/MA1/MARAST kvízy/1. Elementární funkce a jejich vlastnosti/0 1. kvíz index.md",
+    "Škola/2. semestr/KSA/2. Přednáška - Terénní výzkumy, metody antropologického výzkumu - přednáší Alena Libánská.md",
     "Škola/2. semestr/MA1/Přednášky/0. Index.md",
-    "Škola/2. semestr/MA1/MARAST kvízy/1. Elementární funkce a jejich vlastnosti/12. otázka.md",
-    "Škola/2. semestr/MA1/MARAST kvízy/1. Elementární funkce a jejich vlastnosti/14. Otázka.md",
-    "Škola/2. semestr/MA1/MARAST kvízy/1. Elementární funkce a jejich vlastnosti/13. Otázka.md",
-    "Škola/2. semestr/LA2/0. Index + nultá přednáška.md",
-    "Škola/2. semestr/MA1/MARAST kvízy/1. Elementární funkce a jejich vlastnosti/10. otázka.md",
-    "Škola/2. semestr/MA1/MARAST kvízy/1. Elementární funkce a jejich vlastnosti/11. otázka.md",
-    "Assets/koně.png",
+    "Škola/2. semestr/KSA/Reflexe.md",
+    "Škola/2. semestr/DBS/1. Přednáška - Úvod, organizace, Základní pojmy.md",
+    "Škola/2. semestr/LA2/kvízy/Index kvízů LA2.md",
+    "Škola/2. semestr/LA2/Požadavky.md",
+    "Škola/2. semestr/LA2/přednášky/1. přednáška - Opakování, Obecný vektorový prostor.md",
+    "Škola/2. semestr/VAK/2. Grafové problémy.md",
     "Škola/2. semestr/VAK/1. \"Důkazové\" techniky.md",
-    "Assets/dukaz01.png",
-    "Škola/2. semestr/VAK/0. index.md",
-    "Plánování/Daily notes/2024-02-19.md",
-    "Assets/geogebra_arcsin.png",
-    "Knawledge/Vydělávání peněz s Ježíšem.md",
-    "Plánování/Daily notes/2024-02-18.md",
-    "Knawledge",
-    "Plánování/Daily notes/2024-02-11.md",
-    "Plánování/Daily notes/2024-02-12.md",
-    "Škola/2. semestr/PA2/projekty/procvicovani/untitled1/cmake-build-debug/CMakeFiles/clion-log.txt",
-    "Škola/2. semestr/PA2/projekty/procvicovani/untitled1/cmake-build-debug/CMakeFiles/cmake.check_cache",
-    "Škola/2. semestr/PA2/projekty/procvicovani/untitled1/cmake-build-debug/CMakeCache.txt",
-    "Škola/2. semestr/PA2/projekty/procvicovani/untitled1/cmake-build-debug/CMakeFiles/3.22.3/CMakeDetermineCompilerABI_CXX.bin",
-    "Škola/2. semestr/PA2/projekty/procvicovani/untitled1/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeFiles/cmTC_89082.dir/CMakeCXXCompilerABI.cpp.o",
-    "Škola/2. semestr/PA2/projekty/procvicovani/untitled1/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeFiles/cmTC_89082.dir",
-    "Škola/2. semestr/PA2/projekty/procvicovani/untitled1/cmake-build-debug/CMakeFiles/3.22.3/CMakeDetermineCompilerABI_C.bin",
-    "Škola/2. semestr/PA2/projekty/procvicovani/untitled1/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeFiles/cmTC_89ac6.dir/CMakeCCompilerABI.c.o",
-    "Škola/1. semestr/PA1/Znalostní testy/Jednotlivé otázky/3) unsigned short.md",
-    "Škola/2. semestr/MA1/Pojmy/arcsinus.md",
-    "Škola/2. semestr/MA1/Pojmy/inverzní funkce.md",
-    "Assets/geogebra1.png",
-    "Škola/2. semestr/MA1/MARAST kvízy/1. Elementární funkce a jejich vlastnosti/9. otázka.md",
-    "Škola/2. semestr/MA1/MARAST kvízy/1. Elementární funkce a jejich vlastnosti/8. otázka.md",
-    "Škola/2. semestr/MA1/Pojmy/růst funkce.md",
-    "Škola/2. semestr/MA1/Pojmy/zobrazení.md",
-    "Škola/2. semestr/MA1/Pojmy/prostá funkce.md",
-    "Assets/geogebra0.png",
+    "Škola/2. semestr/SAP/úlohy/1. úloha popis - 4 bitová sčítačka.md",
+    "Škola/2. semestr/SAP/1. laboratoř.md",
+    "Škola/2. semestr/SAP/prosemináře/1. proseminář.md",
+    "Škola/2. semestr/PA2/cviceni/1. cvičení.md",
+    "Škola/2. semestr/PA2/cviceni/Untitled.md",
+    "Škola/2. semestr/MA1/Přednášky/1. Přednáška - Reálná čísla.md",
+    "Škola/2. semestr/MA1/Přednášky/0. přednáška - Organizace předmětu.md",
     "Škola/2. semestr/MA1/MARAST kvízy/1. Elementární funkce a jejich vlastnosti/Screenshots/Otazka1.png",
-    "Škola/2. semestr/MA1/MARAST kvízy/1. Elementární funkce a jejich vlastnosti/Screenshots/Otazka14.png",
-    "Škola/2. semestr/MA1/MARAST kvízy/1. Elementární funkce a jejich vlastnosti/Screenshots/Otazka13.png",
-    "Škola/2. semestr/MA1/MARAST kvízy/1. Elementární funkce a jejich vlastnosti/Screenshots/Otazka12.png",
-    "Škola/2. semestr/MA1/MARAST kvízy/1. Elementární funkce a jejich vlastnosti/Screenshots/Otazka11.png",
-    "Untitled.canvas"
+    "Škola/2. semestr/PA2/projekty/cviceni/cmake-build-debug/CMakeFiles/clion-log.txt",
+    "Škola/2. semestr/PA2/projekty/cviceni/cmake-build-debug/CMakeFiles",
+    "Škola/2. semestr/PA2/projekty/cviceni/main.cpp",
+    "Škola/2. semestr/PA2/projekty/cviceni/cmake-build-debug",
+    "Škola/2. semestr/PA2/projekty/cviceni",
+    "Škola/2. semestr/PA2/projekty/cviceni_01/main.cpp",
+    "Škola/2. semestr/PA2/projekty/cviceni_01/cmake-build-debug/CMakeFiles/clion-log.txt",
+    "Škola/2. semestr/PA2/projekty/cviceni_01/cmake-build-debug/CMakeFiles",
+    "Škola/2. semestr/PA2/projekty/cviceni_01/cmake-build-debug",
+    "Škola/2. semestr/PA2/projekty/cviceni_01",
+    "Assets/kvizla2201.png",
+    "Untitled.canvas",
+    "Assets/vak_23.png",
+    "Assets/vak_24.png",
+    "Assets/vak_22.png",
+    "Assets/vak_20.png",
+    "Assets/vak_21.png",
+    "Assets/kvizla2_09.png",
+    "Assets/kvizla2_08.png",
+    "Assets/kvizla2_11.png"
   ]
 }

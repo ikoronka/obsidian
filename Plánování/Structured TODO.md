@@ -1,0 +1,3 @@
+- [ ] 12:30 - 13:15 - STEP IT plan
+- [ ] 13:15 - 13:45 - úkol VAK
+- [ ] 13:45 - 14:00 - začít PA2 proseminář

@@ -13,7 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily notes/2024-02-18.md",
+                "file": "Co se potřebuju doučit + TO DO list.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "1e288c60409c7c51",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e32cf0edcbcdd1e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2024-02-26.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily notes/2024-02-18.md",
+                "file": "Daily/2024-02-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily notes/2024-02-18.md",
+                "file": "Daily/2024-02-26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily notes/2024-02-18.md"
+                "file": "Daily/2024-02-26.md"
               }
             }
           },
@@ -163,8 +181,13 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "fd6b3c1d60e48830",
+  "active": "e32cf0edcbcdd1e3",
   "lastOpenFiles": [
+    "Daily/2024-02-25.md",
+    "Daily/2024-02-26.md",
+    "Co se potřebuju doučit + TO DO list.md",
+    "Structured TODO.md",
+    "Daily",
     "Daily notes/2024-02-12.md",
     "Daily notes/2024-02-13.md",
     "Daily notes/2024-02-11.md",
